@@ -6,6 +6,7 @@
 ## an opjects value in an environment which is different from the current environment.
 ## 
 
+## test commit with new git commit comment made in notepad++
 ## This function creates a special "matrix" object that caches its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
